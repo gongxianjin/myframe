@@ -1,0 +1,3 @@
+SELECT *,FROM_UNIXTIME(`timestamp`/1000, '%Y-%m-%d %H:%i:%s') as '日期' FROM `xc_barcode`;
+
+SELECT *,FROM_UNIXTIME(`timestamp`/1000, '%Y-%m-%d %H:%i:%s') as '日期' FROM `xc_barcode` where `timestamp` < 1482249600000 order by `timestamp`;

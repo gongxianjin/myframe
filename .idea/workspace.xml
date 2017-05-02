@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="9642455e-6507-4a5f-9b65-f1b6e72316d4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/bonus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/datastatic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/joindatastatic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/material" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/mobilepoints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/prizeset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/public" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/sysuser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/tobaccopoints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userauthority" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userdatastatic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/validformdate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/zonedatastatic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_07.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_09.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/icon_13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/loadBg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/site.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/sure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/top1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/top2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/images/top3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/lib/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel5/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/SpgrContainer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/tests/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/utils" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/utils/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/lang/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/.noencode" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/images/_blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/images/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/tcpdf.fdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Drawing" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Drawing/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/_notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_index_url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/TobaccoMobile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/BaseadminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/BonusController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/ExportController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/MaterialController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/MobileChargeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/PublicController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/SysuserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/TobaccoChargeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/UserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/UserauthorityController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/ValidformdateController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/bonusModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/chargelogModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/configModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/giftModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/materialModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/powerModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/sysadminModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/userModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/userthirdModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/models/validformdateModel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/bonus/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/bonus/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/bonus/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/bonus/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/datastatic/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/datastatic/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/datastatic/mobilecharge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/datastatic/tobaccocharge.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/daystatic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/hourstatic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/export/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/export/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/daystatic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/hourstatic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/material/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/material/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/material/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/material/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/mobilepoints/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/mobilepoints/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/prizeset/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/prizeset/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/prizeset/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/prizeset/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/public/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/public/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/sysuser/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/sysuser/selfuser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/tobaccopoints/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/tobaccopoints/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/user/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/user/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/user/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/user/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userauthority/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userauthority/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userauthority/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userauthority/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userdatastatic/detail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userdatastatic/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/userdatastatic/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/validformdate/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/validformdate/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/validformdate/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/daystatic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib/jquery-2.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/lib/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/javascript/paging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/jcDate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/lib/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/lib/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/lib/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/lib/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/paging.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sadmin/style/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/Excel_XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/ExceptionHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/FormulaParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/FormulaToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/Functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Calculation/functionlist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/AdvancedValueBinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/DataType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/DataValidation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/DefaultValueBinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/Hyperlink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/IValueBinder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Cell/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/DocumentProperties.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/DocumentSecurity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/HashTable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/IComparable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/IOFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/NamedRange.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/CSV.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/DefaultReadFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel2003XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel5/Escher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Excel5/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/IReadFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/IReader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/OOCalc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/SYLK.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/Serialized.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Reader/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/ReferenceHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText/ITextElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText/Run.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText/TextElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/RichText/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DgContainer/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/DggContainer/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Escher/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Excel5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/LUDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/Matrix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/QRDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/docs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes/credits.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/includes/navbar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/package.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/docs/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/LMQuadTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/LagrangeInterpolation2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/LevenbergMarquardt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/MagicSquareExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/Stats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/benchmark.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/polyfit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/examples/tile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/tests/TestMatrix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/tests/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/utils/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/utils/Maths.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/JAMA/utils/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE/OLE_File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE/OLE_PPS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE/OLE_Root.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLE/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/OLERead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/2dbarcodes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/CHANGELOG.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/barcodes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache/chapter_demo_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache/chapter_demo_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache/table_data_demo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/cache/utf8test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/lang/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/lang/eng.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/lang/ita.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/tcpdf_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/config/tcpdf_config_alt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/arialunicid0-chinese-simplified.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/arialunicid0-chinese-traditional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/arialunicid0-japanese.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/arialunicid0-korean.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/arialunicid0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/courier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/CREDITS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freefont-20090104/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/freesansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/helvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/helveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/helveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/helveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/uni2cid_ac15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/uni2cid_ag15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/uni2cid_aj16.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/fonts/uni2cid_ak12.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/htmlcolors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/images/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/tcpdf.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/tcpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PDF/unicode_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/PasswordHasher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/String.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/XMLWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/ZipStreamWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/bestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/linearBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/powerBestFitClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Shared/trend/trendClass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Alignment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Border.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Borders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Conditional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Fill.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/NumberFormat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/Protection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Style/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/BaseDrawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/CellIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/ColumnDimension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Drawing/Shadow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Drawing/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/HeaderFooter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/MemoryDrawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/PageMargins.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/PageSetup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Protection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/Row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/RowDimension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/RowIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/SheetView.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Worksheet/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/WorksheetIterator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/CSV.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/ContentTypes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/DocProps.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Drawing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Rels.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/StringTable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Style.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Workbook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/Worksheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/WriterPart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel2007/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/BIFFwriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/Escher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/Workbook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/Worksheet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/Xf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Excel5/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/HTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/IWriter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/PDF.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/Serialized.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/Writer/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/PHPExcel/_notes/dwsync.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/mysql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/lib/page.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/controllers/indexController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/models/cModel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/views/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/views/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/views/index/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/views/layout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/controllers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/models" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/statics" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/statics/css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/statics/fronts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/statics/img" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/statics/js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/views" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Home/views/index" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/QueryIP.php" afterPath="$PROJECT_DIR$/api/QueryIP.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/QueryPhone.php" afterPath="$PROJECT_DIR$/api/QueryPhone.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/controllers/indexController.php" afterPath="$PROJECT_DIR$/app/Sadmin/controllers/indexController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/models/cModel.php" afterPath="$PROJECT_DIR$/app/Sadmin/models/cModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/models/chargerecordModel.php" afterPath="$PROJECT_DIR$/app/Sadmin/models/chargerecordModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/models/giftlogModel.php" afterPath="$PROJECT_DIR$/app/Sadmin/models/giftlogModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/views/footer.php" afterPath="$PROJECT_DIR$/app/Sadmin/views/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/views/header.php" afterPath="$PROJECT_DIR$/app/Sadmin/views/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/views/index/index.php" afterPath="$PROJECT_DIR$/app/Sadmin/views/index/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Sadmin/views/layout.php" afterPath="$PROJECT_DIR$/app/Sadmin/views/layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/common/function.php" afterPath="$PROJECT_DIR$/core/common/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/config/database.php" afterPath="$PROJECT_DIR$/core/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/config/log.php" afterPath="$PROJECT_DIR$/core/config/log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/lib/Controller.php" afterPath="$PROJECT_DIR$/core/lib/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/lib/ImHttpRequest.php" afterPath="$PROJECT_DIR$/core/lib/ImHttpRequest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/lib/View.php" afterPath="$PROJECT_DIR$/core/lib/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/lib/model.php" afterPath="$PROJECT_DIR$/core/lib/model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/selframe.php" afterPath="$PROJECT_DIR$/core/selframe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <ignored path="frame-01.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="frame-01" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DrawdatastaticController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/DrawdatastaticController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="435" column="35" selection-start-line="435" selection-start-column="35" selection-end-line="435" selection-end-column="35" />
+              <folding>
+                <marker date="1490174047887" expanded="true" signature="5250:5447" placeholder="select count..giftrecord..." />
+                <marker date="1490174047887" expanded="true" signature="10761:10801" placeholder="drop table i..." />
+                <marker date="1490174047887" expanded="true" signature="10824:12809" placeholder="create table..draw_daystatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="13504:13544" placeholder="select count..draw_daystatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="13843:13895" placeholder="select * fro..draw_daystatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="14696:14729" placeholder="select * fro..draw_daystatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="16601:16642" placeholder="drop table i..." />
+                <marker date="1490174047887" expanded="true" signature="16665:18660" placeholder="create table..draw_hourstatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="19360:19401" placeholder="select count..draw_hourstatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="19701:19754" placeholder="select * fro..draw_hourstatic_temp..." />
+                <marker date="1490174047887" expanded="true" signature="20497:20531" placeholder="select * fro..draw_hourstatic_temp..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
+              <folding>
+                <marker date="1490679452597" expanded="true" signature="7948:8077" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.461538">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24691358">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Sadmin/models/cModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/configModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/giftlogModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/giftModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/materialModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/powerModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/sysadminlogModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/userModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/userthirdModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/validformdateModel.php" />
+        <option value="$PROJECT_DIR$/vendor/catfan/medoo/medoo.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/models/sysadminModel.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/ExportController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/PublicController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/MobileChargeController.php" />
+        <option value="$PROJECT_DIR$/core/lib/model.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/TobaccoChargeController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/core/lib/mysql.php" />
+        <option value="$PROJECT_DIR$/core/common/function.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/prizeset/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/PrizesetController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/DatestaticController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/indexController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/datastatic/header.php" />
+        <option value="$PROJECT_DIR$/assets/Sadmin/style/style.css" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/DatastaticmenuController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/index/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/Userdatastatic/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/userdatastatic/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/UserauthorityController.php" />
+        <option value="$PROJECT_DIR$/core/lib/Controller.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/DrawdatastaticController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/UserdatastaticController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/datastatic/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/DatastaticController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/datastatic/mobilecharge.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/datastatic/tobaccocharge.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/userdatastatic/detail.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/daystatic.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/joindatastatic/hourstatic.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/hourstatic.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/index.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/daystatic.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/daystatic.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/validformdate/add.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/ZonedatastaticController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/controllers/JoindatastaticController.php" />
+        <option value="$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frame-02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xcentiots" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/AppServ/www/frame-02/app/Sadmin/controllers/ZonedatastaticController.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\AppServ\www\frame-02\core\lib" />
+      <recent name="F:\AppServ\www\frame-02\assets\Sadmin" />
+      <recent name="F:\AppServ\www\frame-02\app\Sadmin\assets\fonts" />
+      <recent name="F:\AppServ\www\frame-02\app\Sadmin\models" />
+      <recent name="F:\AppServ\www\frame-02\core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AppServ\www\frame-02\app\Sadmin\views\" />
+      <recent name="F:\AppServ\www\frame-02\app\Sadmin\controllers" />
+      <recent name="F:\AppServ\www\frame-02\app\Sadmin\views\datastatic" />
+      <recent name="F:\AppServ\www\frame-02\assets\Sadmin\fonts" />
+      <recent name="F:\AppServ\www\frame-02\assets\Sadmin\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.DrawdatastaticController.php">
+    <configuration default="false" name="DrawdatastaticController.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:51952/frame-01/app/Sadmin/controllers/DrawdatastaticController.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DrawdatastaticController.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.DrawdatastaticController.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\sun\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\AppServ\www\frame-02" />
+          <option name="myCopyRoot" value="F:\AppServ\www\frame-02" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="F:\AppServ\www\frame-02" />
+          <option name="myCopyRoot" value="F:\AppServ\www\frame-02" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9642455e-6507-4a5f-9b65-f1b6e72316d4" name="Default" comment="" />
+      <created>1471160737371</created>
+      <option name="number" value="Default" />
+      <updated>1471160737371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3376723" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32550335" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5285235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32550335" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30321592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5285235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/Sadmin/style/paging.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/datastatic/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.461538">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Sadmin/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="137" column="7" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/tobaccopoints/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.6923075">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4805915">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/indexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25878003">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/prizeset/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.236599">
+          <caret line="74" column="62" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/userdatastatic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2569317">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/tobaccopoints/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.9556377">
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55452865">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/PrizesetController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="111" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/models/giftModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/models/chargerecordModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.115385">
+          <caret line="83" column="11" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/models/sysadminModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34935305">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/SysuserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4417745">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/models/materialModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25878003">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/UserauthorityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8890943">
+          <caret line="210" column="6" selection-start-line="210" selection-start-column="6" selection-end-line="212" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/TobaccopointsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-57.692307">
+          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/TobaccoChargeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63031423">
+          <caret line="255" column="54" selection-start-line="254" selection-start-column="8" selection-end-line="255" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/MobilepointsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/models/userModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/UserdatastaticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-103.07692">
+          <caret line="139" column="32" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/catfan/medoo/medoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34935305">
+          <caret line="153" column="20" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/datastatic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.26923">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/datastatic/tobaccocharge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25878003">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/userauthority/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/userdatastatic/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25878003">
+          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/datastatic/mobilecharge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3900185">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/joindatastatic/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/joindatastatic/hourstatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41959333">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/joindatastatic/daystatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.073937155">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/hourstatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="52" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/daystatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60998154">
+          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7692308">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/joindatastatic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7692308">
+          <caret line="65" column="52" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/drawdatastatic/daystatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7692308">
+          <caret line="84" column="52" selection-start-line="84" selection-start-column="52" selection-end-line="84" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34935305">
+          <caret line="1166" column="20" selection-start-line="1166" selection-start-column="20" selection-end-line="1166" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.538462">
+          <caret line="238" column="34" selection-start-line="238" selection-start-column="29" selection-end-line="238" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/validformdate/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/ZonedatastaticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8133087">
+          <caret line="152" column="62" selection-start-line="152" selection-start-column="60" selection-end-line="152" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/ValidformdateController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.153847">
+          <caret line="89" column="49" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/DatastaticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1571164">
+          <caret line="165" column="42" selection-start-line="165" selection-start-column="38" selection-end-line="165" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/JoindatastaticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3345656">
+          <caret line="307" column="29" selection-start-line="307" selection-start-column="29" selection-end-line="307" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/controllers/DrawdatastaticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="435" column="35" selection-start-line="435" selection-start-column="35" selection-end-line="435" selection-end-column="35" />
+          <folding>
+            <marker date="1490174047887" expanded="true" signature="5250:5447" placeholder="select count..giftrecord..." />
+            <marker date="1490174047887" expanded="true" signature="10761:10801" placeholder="drop table i..." />
+            <marker date="1490174047887" expanded="true" signature="10824:12809" placeholder="create table..draw_daystatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="13504:13544" placeholder="select count..draw_daystatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="13843:13895" placeholder="select * fro..draw_daystatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="14696:14729" placeholder="select * fro..draw_daystatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="16601:16642" placeholder="drop table i..." />
+            <marker date="1490174047887" expanded="true" signature="16665:18660" placeholder="create table..draw_hourstatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="19360:19401" placeholder="select count..draw_hourstatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="19701:19754" placeholder="select * fro..draw_hourstatic_temp..." />
+            <marker date="1490174047887" expanded="true" signature="20497:20531" placeholder="select * fro..draw_hourstatic_temp..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Sadmin/views/zonedatastatic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="163" column="7" selection-start-line="163" selection-start-column="7" selection-end-line="163" selection-end-column="7" />
+          <folding>
+            <marker date="1490679452597" expanded="true" signature="7948:8077" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/selframe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5258303">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.461538">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24691358">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
